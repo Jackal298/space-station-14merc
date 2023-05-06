@@ -68,7 +68,7 @@
     zeroVisible: true
   - type: Appearance
   - type: StaticPrice
-    price: 5000
+    price: 3000
 
 - type: entity
   name: Inspector
